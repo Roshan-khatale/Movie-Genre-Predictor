@@ -1,2 +1,3 @@
-# Movie-Genre-Predictor
-This project uses natural language processing to classify a movie's genre based on its plot using TfidfVectorizer + LogisticRegression.
+# Movie Genre Predictor
+
+Predicts movie genre based on plot summary using NLP.
